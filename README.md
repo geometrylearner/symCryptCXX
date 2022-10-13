@@ -1,3 +1,5 @@
+## Description
+This is a simple symmetric encryptor based XOR operator implemented by C/C++.
 ## Installation
 `make`
 
