@@ -9,4 +9,4 @@ To encrypt your target file named like `file_to_encrypt`, type in shell as follo
 Some primary mathematics will tell you How to dencrypt the same file.
 
 ## Warning
-This is just a beta multithreads-symmetric encryptor, by in which the NUM_THREADS>1 will break your file inevitably, and this is anti-example for multi-thread mutex.
+This is just a beta multithreads-symmetric encryptor, by in which the NUM_THREADS>1 will break your file inevitably, and this is an anti-example for multi-thread mutex.
